@@ -1,5 +1,5 @@
-package starter
+package promethy
 
 type wrapper struct {
-	// TODO 加入自定义的配置
+	Prometheus *config `json:"prometheus" yaml:"prometheus" xml:"prometheus" toml:"prometheus" validate:"required"`
 }

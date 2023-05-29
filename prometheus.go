@@ -8,7 +8,6 @@ import (
 	"github.com/goexl/promethy"
 	"github.com/goexl/simaqian"
 	"github.com/pangum/pangu"
-	"github.com/pangum/valuer"
 )
 
 type prometheusIn struct {
@@ -16,7 +15,6 @@ type prometheusIn struct {
 
 	Config *pangu.Config
 	Logger simaqian.Logger
-	Parser *valuer.Parser
 	Mux    *http.ServeMux
 }
 

@@ -3,7 +3,7 @@ module github.com/pangum/promethy
 go 1.19
 
 require (
-	github.com/goexl/promethy v0.0.5
+	github.com/goexl/promethy v0.0.6
 	github.com/goexl/simaqian v0.2.5
 	github.com/pangum/pangu v0.3.2
 )

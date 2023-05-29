@@ -6,7 +6,6 @@ require (
 	github.com/goexl/promethy v0.0.5
 	github.com/goexl/simaqian v0.2.5
 	github.com/pangum/pangu v0.3.2
-	github.com/pangum/valuer v0.0.3
 )
 
 require (
@@ -33,14 +32,11 @@ require (
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/leodido/go-urn v1.2.4 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
-	github.com/pangum/http v0.2.0 // indirect
-	github.com/pangum/logging v0.2.0 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
 	github.com/prometheus/client_golang v1.15.1 // indirect
 	github.com/prometheus/client_model v0.4.0 // indirect
 	github.com/prometheus/common v0.44.0 // indirect
 	github.com/prometheus/procfs v0.10.0 // indirect
-	github.com/rogpeppe/go-internal v1.10.0 // indirect
 	github.com/rs/xid v1.5.0 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/sirupsen/logrus v1.9.2 // indirect

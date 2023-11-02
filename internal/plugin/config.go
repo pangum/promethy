@@ -1,6 +1,6 @@
-package promethy
+package plugin
 
-type config struct {
+type Config struct {
 	// 是否开启
 	Enabled *bool `default:"true" json:"enabled" yaml:"enabled" xml:"enabled" toml:"enabled"`
 	// 路径
